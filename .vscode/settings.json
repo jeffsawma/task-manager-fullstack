@@ -1,0 +1,6 @@
+{
+  "javascript.validate.enable": true,
+  "typescript.validate.enable": false,
+  "editor.formatOnPaste": false,
+  "editor.semanticHighlighting.enabled": false
+}
