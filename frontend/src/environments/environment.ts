@@ -1,5 +1,5 @@
 export const environment = {
-  apiUrl: 'http://localhost:5000'
+  apiUrl: 'https://task-manager-fullstack-qjj9.onrender.com'
 };
 
 
